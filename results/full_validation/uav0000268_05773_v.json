@@ -1,0 +1,22 @@
+﻿{
+    "source":  "data\\raw\\VisDrone2019-MOT-val\\sequences\\uav0000268_05773_v",
+    "output":  "outputs\\full_val\\uav0000268_05773_v.mp4",
+    "frames":  978,
+    "elapsed_seconds":  189.1629,
+    "fps":  5.17,
+    "hardware":  {
+                     "platform":  "Windows-11-10.0.26200-SP0",
+                     "processor":  "Intel64 Family 6 Model 186 Stepping 2, GenuineIntel",
+                     "python":  "3.12.13",
+                     "device_arg":  "cpu"
+                 },
+    "settings":  {
+                     "weights":  "yolo11n.pt",
+                     "imgsz":  960,
+                     "conf":  0.08,
+                     "iou":  0.55,
+                     "tile":  false,
+                     "camera_motion":  true
+                 }
+}
+

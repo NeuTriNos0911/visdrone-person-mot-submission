@@ -1,0 +1,56 @@
+﻿{
+  "runs": [
+    {
+      "sequence": "uav0000086_00000_v",
+      "frames": 464,
+      "fps": 11.99,
+      "elapsed_seconds": 38.6982,
+      "video": "uav0000086_00000_v.mp4"
+    },
+    {
+      "sequence": "uav0000117_02622_v",
+      "frames": 349,
+      "fps": 7.553,
+      "elapsed_seconds": 46.2098,
+      "video": "uav0000117_02622_v.mp4"
+    },
+    {
+      "sequence": "uav0000137_00458_v",
+      "frames": 233,
+      "fps": 7.68,
+      "elapsed_seconds": 30.3397,
+      "video": "uav0000137_00458_v.mp4"
+    },
+    {
+      "sequence": "uav0000182_00000_v",
+      "frames": 363,
+      "fps": 14.382,
+      "elapsed_seconds": 25.2395,
+      "video": "uav0000182_00000_v.mp4"
+    },
+    {
+      "sequence": "uav0000268_05773_v",
+      "frames": 978,
+      "fps": 5.17,
+      "elapsed_seconds": 189.1629,
+      "video": "uav0000268_05773_v.mp4"
+    },
+    {
+      "sequence": "uav0000305_00000_v",
+      "frames": 184,
+      "fps": 9.56,
+      "elapsed_seconds": 19.2465,
+      "video": "uav0000305_00000_v.mp4"
+    },
+    {
+      "sequence": "uav0000339_00001_v",
+      "frames": 275,
+      "fps": 11.05,
+      "elapsed_seconds": 24.8876,
+      "video": "uav0000339_00001_v.mp4"
+    }
+  ],
+  "total_frames": 2846,
+  "total_elapsed_seconds": 373.7842,
+  "overall_fps": 7.614
+}

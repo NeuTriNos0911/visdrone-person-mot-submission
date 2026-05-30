@@ -1,0 +1,26 @@
+[build-system]
+requires = ["setuptools>=68", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "drone-person-mot"
+version = "0.2.0"
+description = "Person detection and multi-object tracking pipeline for VisDrone drone footage."
+requires-python = ">=3.10"
+dependencies = [
+  "ultralytics>=8.3.0",
+  "opencv-python>=4.9.0",
+  "numpy>=1.26",
+  "Pillow>=10.0",
+  "PyYAML>=6.0",
+  "tqdm>=4.66",
+  "requests>=2.31",
+  "huggingface-hub>=0.25",
+]
+
+[project.scripts]
+drone-person-mot = "drone_person_mot.cli:main"
+
+[tool.setuptools.packages.find]
+where = ["src"]
+

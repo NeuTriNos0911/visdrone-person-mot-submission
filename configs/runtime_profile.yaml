@@ -1,0 +1,18 @@
+﻿weights: runs/detect/visdrone_person_yolo11n/weights/best.pt
+imgsz: 1280
+conf: 0.18
+iou: 0.55
+keep_class_ids: [0]
+tiling:
+  enabled: true
+  tile_size: 960
+  overlap: 0.20
+tracker:
+  high_conf: 0.35
+  low_conf: 0.08
+  match_iou_high: 0.25
+  match_iou_low: 0.12
+  max_lost: 30
+  use_camera_motion: true
+
+

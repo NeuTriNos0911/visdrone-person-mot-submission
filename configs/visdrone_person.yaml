@@ -1,0 +1,7 @@
+﻿path: data/visdrone_person
+train: images/val
+val: images/val
+names:
+  0: person
+
+
