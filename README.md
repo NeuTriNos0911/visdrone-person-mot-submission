@@ -12,7 +12,7 @@ boxes, IDs, trajectory tails, and FPS overlays.
 
 The repository keeps the code, configuration, benchmark summaries, and visual
 previews in Git. The full original submission archive is attached to the
-[`v1.0.0` release](https://github.com/NeuTriNos0911/visdrone-person-mot-submission-clean/releases/tag/v1.0.0).
+[`v1.0.0` release](https://github.com/NeuTriNos0911/visdrone-person-mot-submission/releases/tag/v1.0.0).
 
 ## Preview
 
@@ -83,7 +83,7 @@ VisDrone_Person_MOT_Submission.zip
 Release URL:
 
 ```text
-https://github.com/NeuTriNos0911/visdrone-person-mot-submission-clean/releases/tag/v1.0.0
+https://github.com/NeuTriNos0911/visdrone-person-mot-submission/releases/tag/v1.0.0
 ```
 
 ## Quickstart
